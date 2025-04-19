@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 It's me Sathish R</h1>
-<h3 align="center">Aspiring Data analyst📈 & Web developer| I Bring Ideas To Reality</h3>
+<h3 align="center">Aspiring Data analyst📈 & Data Engineer| I Bring Ideas To Reality</h3>
 
 <img align="right" width="400" height="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                            
