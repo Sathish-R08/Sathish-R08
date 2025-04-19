@@ -3,7 +3,7 @@
 
 <img align="right" width="400" height="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                            
-- 🌱 I’m currently learning Data Analyst / Web Developer / AIML
+- 🌱 I’m currently learning Data Analyst / Data Engineer / AIML
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
