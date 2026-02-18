@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 It's me Sathish R</h1>
-<h3 align="center">Aspiring Data Analyst/Engineer📈 & Full Stack (MERN) | I Bring Ideas To Reality</h3>
+<h3 align="center">Aspiring Full Stack (MERN) and Ai | I Bring Ideas To Reality</h3>
 
 <img align="right" width="400" height="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - Here's My Portfolio: https://sathish-r08.github.io/                                          
-- 🌱 I’m currently learning Data Analyst / Data Engineer / Full Stack / AIML
+- 🌱 I’m currently learning Full Stack / AIML
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
